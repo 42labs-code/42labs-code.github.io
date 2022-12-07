@@ -1,11 +1,5 @@
 ---
 layout: default
-title: 42 Labs
+title: Hi!
 ---
 
-
-# Hello World
-
-## It's the smaller text
-
-### It's even smaller
