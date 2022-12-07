@@ -3,4 +3,24 @@ layout: default
 title: Hola!
 ---
 
-Hi! I'm Devansh Gupta. I'm Backend Developer and love problem solving. Lately I'm looking to build something into No Code space. I'm un-sure about who to build for. 
+Hi! I'm [Devansh Gupta](https://linkedin.com/in/devansh42). I'm Backend Developer and love problem solving. Lately I'm looking to build something into No Code space to help founders building there tech easily and more efficiently. I'm confuse about who to build for. 
+
+But You can help me in this quest. For that you need to do following things
+
+- Fill this Google Form and answer few questions about your start-up journey (specially about the tech development)
+[https://docs.google.com/forms/d/1olpUPESFr_9mONRRYqrn3xTxBTiXGbThEiQl9X3KlvE/edit](https://docs.google.com/forms/d/1olpUPESFr_9mONRRYqrn3xTxBTiXGbThEiQl9X3KlvE/edit)
+
+Once you submit the form, I'll try to reach you to have a brief conversation about your start-up journey and the challanges you face in the journey (over a cup of team, I don't do coffee :)
+
+Benefits
+
+- Get early access to anything we build, here at [42 Labs](https://42labs.online).
+- A chance to contribute to the community, We'll share your learnings with 42 Labs community.
+- My Gratitude!! You'll make a friend for life (My automation tools would remember you, only if you allowed me while submitting the form)
+
+
+It's a baby step towards something great, Be a Torchbearer
+
+I'll keep you update with the latest update
+
+Thanks a lot!
