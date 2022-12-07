@@ -11,7 +11,7 @@ But You can help me in this quest. For that you need to do following things
 
 The [Google Form](https://forms.gle/7aGEQPYQHF4XHEqGA)
 
-Once you submit the form, I'll try to reach you to have a brief conversation about your start-up journey and the challanges you face in the journey (over a cup of team, I don't do coffee :)
+Once you submit the form, I'll try to reach you to have a brief conversation about your start-up journey and the challanges you faced (over a cup of tea, I don't do coffee :)
 
 Benefits
 
