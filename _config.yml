@@ -1,10 +1,15 @@
+title: 42 Labs
+author: 
+  name: Devansh Gupta
+  email: devansh@42labs.online
+
 theme: minima
 
-twitter_username: jekyllrb
-github_username:  devansh42
-linkedin_username: devansh42
-youtube_username: theshareefcoder
+minima:
+  social_links:
+    - { platform: github, user_url: "https://github.com/devansh42" }
+    - { platform: youtube, user_url: "https://youtube.com/theshareefcoder" }
+    - { platform: linkedin, user_url: "https://linkedin.com/in/devansh42" }
 
 google_analytics: G-44RLQ7MWVX
 
-author: 42 Labs
